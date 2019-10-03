@@ -1,5 +1,12 @@
 
+**Project:**
+Creating a user interactive interface that utilizes machine leanring to identify handwritten numbers and Alphabets.  
+
+
 **Please check "Presentation.pptx" for more info!**
+
+
+Try it yourself! http://magic8ballprgt.herokuapp.com/
 
 
 
@@ -15,8 +22,7 @@ Jihan McKenzie
 Denise Person  
 Rachel Song  
 
-Proposal:  
-Creating a user interactive interface that utilizes machine leanring to identify handwritten numbers and Alphabets.  
+
 
 
 
