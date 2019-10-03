@@ -1,5 +1,10 @@
 
+**Please check presentation for more info!**
 
+
+
+
+![alt text](https://miro.medium.com/max/3288/1*uAeANQIOQPqWZnnuH-VEyw.jpeg)
 
 
 Team:  
@@ -11,13 +16,8 @@ Denise Person
 Rachel Song  
 
 Proposal:  
-Creating a user interactive interface that utilizes machine leanring to identify handwritten numbers.  
+Creating a user interactive interface that utilizes machine leanring to identify handwritten numbers and Alphabets.  
 
-Data Set:  
-https://www.tensorflow.org/versions/r2.0/api_docs/python/tf/keras/datasets/mnist/load_data
 
-Tools:  
-Keras for machine learning  
-HTML, CSS, Bootstrap to create webpage  
-Javascript  
-Flask serve  
+
+
