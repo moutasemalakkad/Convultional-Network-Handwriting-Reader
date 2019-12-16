@@ -6,7 +6,7 @@ Creating a user interactive interface that utilizes machine leanring to identify
 **Please check "Presentation.pptx" for more info!**
 
 
-Try it yourself! http://magic8ballprgt.herokuapp.com/
+
 
 
 
